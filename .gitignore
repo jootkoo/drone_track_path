@@ -1,0 +1,7 @@
+@"
+crazyflie_env/
+__pycache__/
+*.pyc
+cache/
+.env
+"@ | Set-Content .gitignore
